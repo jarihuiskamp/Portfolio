@@ -1,0 +1,23 @@
+body{
+  background-color: midnightblue;
+}
+
+#myImage{
+ display: block;
+ margin: auto;
+ background-color: white;
+ padding: 15px;
+
+}
+
+.wrapper{
+background-color: midnightblue;
+width: 700px;
+margin: 50px auto;
+}
+
+#thumbnailHolder{
+  margin-top: 30px;
+  white-space: nowrap;
+  overflow-x: scroll;
+}
